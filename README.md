@@ -1,2 +1,3 @@
 # Matlab
-It's matlab codes
+
+Here are mathematical approximation programs in MATLAB
