@@ -1,3 +1,2 @@
 # Matlab
-
-Here are mathematical approximation programs in MATLAB
+It is about numerical methods programmed in matlab.
